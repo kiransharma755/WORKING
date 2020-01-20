@@ -12,3 +12,8 @@ https://www.youtube.com/watch?v=VkwfeKMVBaA&list=PLEzlMe1rDOhl7wvE97w5COqi9tQU7i
 
 #### RHCE
 https://www.youtube.com/watch?v=ZWRPSJwE5l8&t=913s
+
+
+
+###### ------------------------------------ SSL 
+https://cloud.google.com/kubernetes-engine/docs/how-to/ingress-multi-ssl
