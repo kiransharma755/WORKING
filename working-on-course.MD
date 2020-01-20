@@ -8,3 +8,7 @@ https://www.youtube.com/watch?v=JHoy3lDZOfY
 
 #### RHCE 2 HOURS
 https://www.youtube.com/watch?v=VkwfeKMVBaA&list=PLEzlMe1rDOhl7wvE97w5COqi9tQU7iN3X
+
+
+#### RHCE
+https://www.youtube.com/watch?v=ZWRPSJwE5l8&t=913s
