@@ -20,3 +20,7 @@ https://www.youtube.com/watch?v=4P23_rhyTgc
 
 ###### ------------------------------------ SSL 
 https://cloud.google.com/kubernetes-engine/docs/how-to/ingress-multi-ssl
+
+
+#### ------------------------python
+https://www.youtube.com/watch?v=edvg4eHi_Mw
