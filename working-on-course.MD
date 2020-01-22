@@ -24,3 +24,8 @@ https://cloud.google.com/kubernetes-engine/docs/how-to/ingress-multi-ssl
 
 #### ------------------------python
 https://www.youtube.com/watch?v=edvg4eHi_Mw
+
+
+#### 10 hours aws solutions architect video
+
+https://www.youtube.com/watch?v=Ia-UEYYR44s
