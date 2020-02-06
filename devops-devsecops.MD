@@ -10,3 +10,6 @@ https://www.youtube.com/watch?v=FX322RVNGj4
 
 ## jenkins video
 https://www.youtube.com/watch?v=-VaVmb_UOC8
+
+#### jenkins video 2 hours
+https://www.youtube.com/watch?v=IluhOk86prA
