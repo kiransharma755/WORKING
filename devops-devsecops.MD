@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=0HkndOznZJM
 
 #### jenkins 3 hours video
 https://www.youtube.com/watch?v=FX322RVNGj4
+
+## jenkins video
+https://www.youtube.com/watch?v=-VaVmb_UOC8
