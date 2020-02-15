@@ -4,3 +4,8 @@ https://www.threatstack.com/blog/50-useful-docker-tutorials-for-it-professionals
 
 #### kubernetes training
 https://training-course-material.com/training/Kubernetes_(KB)
+
+
+#### container training
+
+container.training
