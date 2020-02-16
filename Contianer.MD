@@ -20,3 +20,7 @@ curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/master/scr
 $ chmod 700 get_helm.sh \
 $ ./get_helm.sh \
 https://helm.sh/docs/intro/install/ 
+
+
+#### 6. useful github repos
+https://github.com/johandry/CKA
