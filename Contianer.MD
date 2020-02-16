@@ -1,15 +1,15 @@
-#### 50 useful docker tutorials
+#### 1. 50 useful docker tutorials
 https://www.threatstack.com/blog/50-useful-docker-tutorials-for-it-professionals-from-beginner-to-advanced
 
 
-#### kubernetes training
+#### 2. kubernetes training
 https://training-course-material.com/training/Kubernetes_(KB)
 
 
-#### container training
+#### 3. container training
 
 container.training
 
 
-#### kubernetes by example
+#### 4. kubernetes by example
 http://kubernetesbyexample.com/pods/
