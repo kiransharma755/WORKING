@@ -26,5 +26,5 @@ https://helm.sh/docs/intro/install/
 https://github.com/johandry/CKA
 
 
-#### 7. Kubernetes and container Courses
+#### 100. Kubernetes and container Courses
 https://learnk8s.io/
