@@ -25,6 +25,8 @@ https://helm.sh/docs/intro/install/
 #### 6. useful github repos
 https://github.com/johandry/CKA
 
+#### 7. 
+https://backstage.forgerock.com/docs/platform/6.5/eks-sr-guide/
 
 #### 99. yaml
 https://learnk8s.io/templating-yaml-with-code
