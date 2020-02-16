@@ -9,3 +9,7 @@ https://training-course-material.com/training/Kubernetes_(KB)
 #### container training
 
 container.training
+
+
+#### kubernetes by example
+http://kubernetesbyexample.com/pods/
