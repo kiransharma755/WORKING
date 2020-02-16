@@ -26,5 +26,9 @@ https://helm.sh/docs/intro/install/
 https://github.com/johandry/CKA
 
 
+#### 99. yaml
+https://learnk8s.io/templating-yaml-with-code
+
+
 #### 100. Kubernetes and container Courses
 https://learnk8s.io/
