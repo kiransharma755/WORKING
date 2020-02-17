@@ -41,3 +41,9 @@ https://medium.com/@sensri108/practice-examples-dumps-tips-for-cka-ckad-certifie
 #### 120. cka lab based on the syllabus
 https://github.com/David-VTUK/CKA-StudyGuide/tree/master/LabGuideAnswers
 
+
+
+
+#### ---------------------
+#### aws EKS
+https://github.com/aws-samples/aws-workshop-for-kubernetes
