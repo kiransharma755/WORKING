@@ -35,5 +35,9 @@ https://learnk8s.io/templating-yaml-with-code
 #### 100. Kubernetes and container Courses
 https://learnk8s.io/
 
-#### 10000. CKA practce exam 
+#### 110. CKA practce exam 
 https://medium.com/@sensri108/practice-examples-dumps-tips-for-cka-ckad-certified-kubernetes-administrator-exam-by-cncf-4826233ccc27
+
+#### 120. cka lab based on the syllabus
+https://github.com/David-VTUK/CKA-StudyGuide/tree/master/LabGuideAnswers
+
