@@ -34,9 +34,12 @@ https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2
 
 https://kubernetes.academy/assessment/results
 
-$$$$ 8. Basic kubernetes tutorials
+#### 8. Basic kubernetes tutorials
 
 https://dev.to/sendilkumarn/kubernetes-for-everyone-opb
+
+Docker daemon port 
+https://stackoverflow.com/questions/26561963/how-to-detect-a-docker-daemon-port
 
 #### 99. yaml
 https://learnk8s.io/templating-yaml-with-code
