@@ -28,6 +28,12 @@ https://github.com/johandry/CKA
 #### 7. 
 https://backstage.forgerock.com/docs/platform/6.5/eks-sr-guide/
 
+best 
+https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/edit#gid=0
+
+
+https://kubernetes.academy/assessment/results
+
 #### 99. yaml
 https://learnk8s.io/templating-yaml-with-code
 
