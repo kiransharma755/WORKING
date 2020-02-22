@@ -63,3 +63,7 @@ https://eksworkshop.com/
 https://github.com/aws-samples/aws-workshop-for-kubernetes
 
 https://eksworkshop.com/
+
+#### IBM's kubernetes course
+https://cognitiveclass.ai/courses/kubernetes-course
+
