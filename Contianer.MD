@@ -64,6 +64,8 @@ https://github.com/aws-samples/aws-workshop-for-kubernetes
 
 https://eksworkshop.com/
 
+https://logz.io/blog/amazon-eks-cluster/
+
 #### IBM's kubernetes course
 https://cognitiveclass.ai/courses/kubernetes-course
 
