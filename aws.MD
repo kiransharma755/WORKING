@@ -12,3 +12,7 @@ https://www.youtube.com/watch?v=LX5lHYGFcnA&t=416s
 
 #### routing
 https://medium.com/@mda590/aws-routing-101-67879d23014d
+
+
+##### Landing zone
+https://aws.amazon.com/blogs/apn/automating-your-aws-landing-zone-deployment-to-speed-up-large-scale-migrations/
